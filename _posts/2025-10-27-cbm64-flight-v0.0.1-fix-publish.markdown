@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "cbm64-flight-v0.0.1-fix-publish"
+date:   2025-10-27T18:13:48+02:00
+categories: cbm64 games
+---
+
+Commodore 64 flight game for 4 players version 0.0.1-fix-publish published 2025-10-27T18:13:48+02:00
+from [https://github.com/korpiq/cbm64-flight](https://github.com/korpiq/cbm64-flight)
+
+- Playable disk image: [{% link /cbm64/cbm64-flight-4-players-v0.0.1-fix-publish.d64 %}]({% link /cbm64/cbm64-flight-4-players-v0.0.1-fix-publish.d64 %})
+- Try it out with cursor keys as joystick at [https://vc64web.github.io/#openROMS=true#port2=true#{% link /cbm64/cbm64-flight-4-players-v0.0.1-fix-publish.prg %}](https://vc64web.github.io/#openROMS=true#port2=true#{% link /cbm64/cbm64-flight-4-players-v0.0.1-fix-publish.prg %})
