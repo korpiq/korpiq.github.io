@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "cbm64-flight-v0.0.1"
+date:   2025-10-27 16:24:52 +0200
+categories: cbm64 games
+---
+
+- [/cbm64/flight-game-4-player.prg]({% link /cbm64/flight-game-4-player.prg %})
+- [/cbm64/flight-game-4-player.d64]({% link /cbm64/flight-game-4-player.d64 %})
