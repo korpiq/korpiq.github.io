@@ -5,5 +5,5 @@ date:   2025-10-27 16:24:52 +0200
 categories: cbm64 games
 ---
 
-- [/cbm64/flight-game-4-player.prg]({% link /cbm64/flight-game-4-player.prg %})
-- [/cbm64/flight-game-4-player.d64]({% link /cbm64/flight-game-4-player.d64 %})
+- [/cbm64/cbm64-flight-4-players.prg]({% link /cbm64/cbm64-flight-4-players.prg %})
+- [/cbm64/cbm64-flight-4-players.d64]({% link /cbm64/cbm64-flight-4-players.d64 %})
